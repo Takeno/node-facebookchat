@@ -1,23 +1,23 @@
 {
-	"name": "node-facebookchat"
+  "name": "node-facebookchat"
 , "version": "0.1.0"
 , "main": "./index.js"
 , "description": "Node.js library for facebook chat integration"
 , "author": "Takeno"
 , "dependencies": {
-		"node-xmpp": ">=0.3.0"
+    "node-xmpp": ">=0.3.0"
  }
 , "repositories": [{
-		"type": "git"
-	, "path": "http://github.com/Takeno/node-facebookchat.git"
-	}]
+    "type": "git"
+  , "path": "http://github.com/Takeno/node-facebookchat.git"
+  }]
 , "homepage": "http://github.com/Takeno/node-facebookchat"
 , "bugs": "http://github.com/Takeno/node-facebookchat/issues"
 , "maintainers": [{
-		"name": "Takeno"
-	, "email": "matteo.manchi@gmail.com"
-	, "web": "http://firecode.it"
-	}]
+    "name": "Takeno"
+  , "email": "matteo.manchi@gmail.com"
+  , "web": "http://firecode.it"
+  }]
 ,"contributors": []
 ,"licenses": [{"type": "MIT"}]
 ,"engine": "node"
