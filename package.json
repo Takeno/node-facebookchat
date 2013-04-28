@@ -1,5 +1,5 @@
 {
-	"name": "node-fbchat"
+	"name": "node-facebookchat"
 , "version": "0.1.0"
 , "main": "./index.js"
 , "description": "Node.js library for facebook chat integration"
@@ -9,10 +9,10 @@
  }
 , "repositories": [{
 		"type": "git"
-	, "path": "http://github.com/takeno/node-facebookchat.git"
+	, "path": "http://github.com/Takeno/node-facebookchat.git"
 	}]
-, "homepage": "http://github.com/takeno/node-facebookchat"
-, "bugs": "http://github.com/takeno/node-facebookchat/issues"
+, "homepage": "http://github.com/Takeno/node-facebookchat"
+, "bugs": "http://github.com/Takeno/node-facebookchat/issues"
 , "maintainers": [{
 		"name": "Takeno"
 	, "email": "matteo.manchi@gmail.com"

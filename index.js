@@ -1,1 +1,1 @@
-module.exports = require('./lib/node-fbchat.js');
+module.exports = require('./lib/node-facebookchat.js');
